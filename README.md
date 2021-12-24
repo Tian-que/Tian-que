@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-🌱 I’m currently learning Python
+<a href="#">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Tian-que&count_private=true&show_icons=true&bg_color=15,f2f7fd,E0EAFC" />
+</a>
+
+I'm **Tian-que**
+
+- 🌱 I’m currently learning Python
 
 <!--
 **Tian-que/Tian-que** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -6,7 +6,7 @@
 
 I'm **Tian-que**
 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python、JavaScript and Cpp
 
 <!--
 **Tian-que/Tian-que** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
